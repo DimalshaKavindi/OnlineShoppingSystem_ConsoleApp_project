@@ -1,0 +1,5 @@
+﻿  project.cpp
+C:\Users\dimal\Desktop\Group Project\project\Cloths_info_Linkedlist.h(92,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimal\Desktop\Group Project\project\Orders_queue.h(102): warning C4715: 'OrdersQueue::printCOD': not all control paths return a value
+C:\Users\dimal\Desktop\Group Project\project\Orders_queue.h(129): warning C4715: 'OrdersQueue::printCP': not all control paths return a value
+  project.vcxproj -> C:\Users\dimal\Desktop\Group Project\x64\Debug\project.exe
